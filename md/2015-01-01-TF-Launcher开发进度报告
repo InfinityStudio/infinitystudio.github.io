@@ -1,0 +1,22 @@
+Trigonometry Launcher项目正式启动已经快两周了
+目前完成的东西有:
+
+ - AddonSystem
+     - AddonInteface
+     - AddonLoader
+ - Core
+     - Engine(W.I.P)
+     - Logger
+ - Util
+     - TaskSystem
+     
+总的来说进度还不是特别快 还有这些东西没有完成:
+
+ - Util
+     - Downloader
+     - Unpacker
+     - UpdateChecker
+ - UserInterface
+     - etc
+     
+等等等等... 不过只要我们努力就一定可以完成Trigonometry Launcher
